@@ -3,6 +3,10 @@ This application is a full stack where it uses back end to consume external web 
 
 The front end part, application uses React as framework including bootstrap for font size and color. However BeerList, BeerSearch, Random and BeerDetails are all shown using component called axios uses get to fetch rest api call.
 
+
+
+
+
 #Back end Images
 The images are shown where data is consumed from the Asp.Net Core, action controller it uses GetRandom and so forth using HttpGet to fetch data.
 
